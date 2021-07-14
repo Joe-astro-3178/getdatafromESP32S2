@@ -1,0 +1,9 @@
+Wiring for connecting the BME280 sensor to the ESP32-S2 module
+
+Connect 3.3v on the module to Vcc on the sensor
+Connect a GND on the module to GND on the sensor
+
+Connect pin 15 on the module to SDA on the sensor
+Connect pin 16 to the module to SCL on the sensor
+
+
